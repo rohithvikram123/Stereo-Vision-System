@@ -8,7 +8,6 @@ Designed and implemented a stereo vision system by capturing and processing imag
 
 ## Instructions to run the program
 - Unzip the zip file "rohithvs_proj4.zip"
-### Question 1
 
 - go to the folder rohithvs_proj4
 ### Artroom
